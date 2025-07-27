@@ -15,10 +15,8 @@ This repository contains a collection of simple and fun terminal-based games wri
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run the Game
 
-To run any game:
-
-1. Navigate to the game's folder:
-   ```bash
-   cd number-guessing-game
+### 🖥 Requirements
+- A C++ compiler like `g++` must be installed.
+- (Optional) A code editor like VS Code, Sublime Text, or Code::Blocks.
